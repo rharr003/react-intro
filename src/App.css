@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+.tweet {
+  background-color: #c5c5c7;
+  margin: 50px;
+  padding-bottom: 15px;
+  text-align: left;
+}
+
+.tweet-heading {
+  background-color: #3f79ec;
+  display: flex;
+  justify-content: space-between;
+}
+
+.tweet-body {
+  margin-left: 20px;
+  font-size: 1.25rem;
+}
+
+.tweet-date {
+  margin: 10px 25px;
+}
+
+.tweet-user {
+  margin: 10px 25px;
+  font-size: 1.25rem;
+}
+
+.tweet-reply {
+  text-align: right;
+  margin-right: 20px;
+  margin-bottom: 5px;
+}
